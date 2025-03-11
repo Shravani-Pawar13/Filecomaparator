@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "Smith J", "summary": "frontend devloper", "details": "A  front-end developer designs and builds the visual and interactive parts of websites and apps. They use programming languages like HTML, CSS, and JavaScript to create the user experience. " },
+  { "id": 2, "title": "John M", "summary": "FullStack developer", "details": "A full-stack developer is a web engineer or developer who can build both the front end and back end of a website. They need to have a good understanding of front-end and back-end technologies. " }
+]
